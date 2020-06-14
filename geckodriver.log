@@ -48,3 +48,69 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 1592069784873	Marionette	INFO	Listening on port 38563
 1592069784887	Marionette	WARN	TLS certificate errors will be ignored for this session
 1592069803102	Marionette	INFO	Stopped listening on port 38563
+1592152251083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8gd8aN"
+1592152255338	Marionette	INFO	Listening on port 45211
+1592152255439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152359515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTuc1ch"
+1592152362935	Marionette	INFO	Listening on port 44505
+1592152363024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152438824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile48Z9ZT"
+1592152442304	Marionette	INFO	Listening on port 35797
+1592152442375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152452626	Marionette	INFO	Stopped listening on port 35797
+1592152456976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFBCyib"
+1592152460350	Marionette	INFO	Listening on port 36169
+1592152460425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152471297	Marionette	INFO	Stopped listening on port 36169
+1592152612252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileloCJye"
+1592152615718	Marionette	INFO	Listening on port 33381
+1592152615804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152627994	Marionette	INFO	Stopped listening on port 33381
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592152637210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunh8UR"
+1592152640774	Marionette	INFO	Listening on port 40827
+1592152640848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152659749	Marionette	INFO	Stopped listening on port 40827
+1592152690301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen67HHl"
+1592152693657	Marionette	INFO	Listening on port 38507
+1592152693738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152711621	Marionette	INFO	Stopped listening on port 38507
+1592152716705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile64rGZz"
+1592152720236	Marionette	INFO	Listening on port 45765
+1592152720331	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 396: TypeError: this.ownerNode is null
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 396: TypeError: this.ownerNode is null
+1592152755331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexdx7qm"
+1592152757797	Marionette	INFO	Stopped listening on port 45765
+1592152759439	Marionette	INFO	Listening on port 40149
+1592152759523	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592152830422	Marionette	INFO	Stopped listening on port 40149
+1592152833757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewXnY3E"
+1592152837419	Marionette	INFO	Listening on port 35241
+1592152838345	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592152944951	Marionette	INFO	Stopped listening on port 35241
+1592152946535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledYPfQO"
+1592152950081	Marionette	INFO	Listening on port 41569
+1592152950156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592152974190	Marionette	INFO	Stopped listening on port 41569
+1592152974661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9xlci3"
+1592152978239	Marionette	INFO	Listening on port 43413
+1592152978325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1592152994648	Marionette	INFO	Stopped listening on port 43413
